@@ -17,7 +17,7 @@ a hierarchical object tree component for React:
 
 ## Add to a project
 
-`yarn add @naisutech/react-tree` or `npm install @naisutech/react-tree`
+`yarn add @vedic-tech/react-tree` or `npm install @vedic-tech/react-tree`
 
 ## Usage
 
